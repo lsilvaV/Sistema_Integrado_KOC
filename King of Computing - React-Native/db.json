@@ -1,0 +1,16 @@
+{
+    "kocdb": [
+      {
+        "id": "1",
+        "nome": "Mateus",
+        "email": "Mateus@email.com",
+        "status": "Chamado encerrado"
+      },
+      {
+        "id": "2",
+        "nome": "Guilherme",
+        "email": "guilherme@email.com",
+        "status": "Chamado em aberto"
+      }
+    ]
+  }
